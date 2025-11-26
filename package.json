@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.17.1"
+  },
   "name": "student-management-api",
   "version": "1.0.0",
   "description": "A REST API to manage student data using Express and MongoDB",
